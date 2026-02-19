@@ -4,6 +4,10 @@ Python 3.12
 所有信息统一在界面状态栏显示，无终端输出
 """
 
+""""
+test
+"""
+
 import tkinter as tk
 from tkinter import messagebox
 from PIL import Image
