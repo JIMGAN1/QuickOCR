@@ -34,3 +34,6 @@ six                       1.17.0
 sympy                     1.14.0
 tqdm                      4.67.3
 wheel                     0.46.3
+
+
+打包指令：pyinstaller --onefile --windowed --collect-all rapidocr_onnxruntime --icon="Z.ico" --name="截图识字" --clean QuickOCR.py
